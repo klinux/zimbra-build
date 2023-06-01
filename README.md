@@ -63,3 +63,8 @@ Ou edite o arquivo **create.sh** e coloque as váriaveis e rode o script:
 ## Artefato
 Após o processo terminar, dependendo da máquina que for usada, termina em torno de 25 minutos.
 O arquivo final está na pasta **volume** só copiar o arquivo final e instalar ou atualizar o Zimbra.
+
+Exemplo:
+```
+./volume/RHEL8_64-DAFFODIL-1001-20230531233510-FOSS-0002/zcs-10.0.1_GA_0002.RHEL8_64.20230531233510.tgz
+```
